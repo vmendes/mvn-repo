@@ -33,6 +33,7 @@
 					<repositoryName>mvn-repo</repositoryName>
 					<repositoryOwner>vmendes</repositoryOwner>
 					<branch>refs/heads/master</branch>             <path>snapshots</path>
+					<merge>false</merge>
 				</configuration>
 				<executions>
 				  <execution>
